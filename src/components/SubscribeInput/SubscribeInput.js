@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import styled from "styled-components"
 
 const InputContainer = styled.form`
@@ -70,12 +70,17 @@ const SymbolNext = styled.p`
 `
 
 const SubscribeInput = () => {
+  const [clicked, setClicked] = useState(false)
+  const handleSubmit = e => {
+    e.preventDefault()
+  }
   return (
     <>
-      <InputContainer>
-        <Input type="text" placeholder="Your Email Id" />
-        <Button>Subscribe</Button>
+      <InputContainer onSubmit={handleSubmit}>
+        <Input type="email" placeholder="Your Email Id" />
+        <Button onClick={() => setClicked(true)}>Subscribe</Button>
       </InputContainer>
+      {clicked ? <p>Your response is submitted.</p> : null}
     </>
   )
 }
