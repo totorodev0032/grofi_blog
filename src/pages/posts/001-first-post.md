@@ -1,5 +1,5 @@
 ---
-title: "An investor guide to cryptocurrency - 5 things you need to know about Bitcoin"
+title: "A Look at the Personal Finance. Why we need to care about it?"
 date: 2018-12-01
 author: "Nagendra Kumar"
 image: "../../images/image1.png"

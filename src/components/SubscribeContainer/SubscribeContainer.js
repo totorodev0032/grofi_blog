@@ -1,16 +1,21 @@
 import React from "react"
 import styled from "styled-components"
 import SubscribeInput from "../SubscribeInput/SubscribeInput"
+import GrofiLogo from "../../images/grofi.png"
 
 const Wrapper = styled.div`
   display: flex;
   flex-direction: column;
   width: 100%;
-  height: 270px;
+  height: 300px;
   background-color: #f4f8fc;
   align-items: center;
   justify-content: center;
-  margin-top: 30px;
+  margin-top: 50px;
+
+  img {
+    width: 100px;
+  }
 `
 
 const Heading = styled.p`
@@ -34,7 +39,7 @@ const SubscribeContainer = () => {
         {/* <RecentPost /> */}
         <Heading>Subscribe to our blog.</Heading>
         <SubscribeInput />
-        <Heading>Logo</Heading>
+        <img src={GrofiLogo} alt="logo" />
       </Wrapper>
     </>
   )

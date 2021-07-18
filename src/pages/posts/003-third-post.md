@@ -1,44 +1,21 @@
 ---
-title: "An investor guide to cryptocurrency - 4 things you need to know about Bitcoin"
+title: "Finance in Sport - An unexplored world explained in laymen ways"
 date: 2018-12-01 01:00:00
 author: "Nagendra Kumar"
-image: "../../images/jupyter.png"
+image: "../../images/sportfinance.png"
 tags:
   - coding
   - web dev
 ---
 
-The term “personal finance” refers to how you manage your money and plan for your future. All of your financial decisions and activities affect your financial health. It is all about managing your personal budget and how best to invest your money to realize your goals.
+We’d like to announce the start of our brand-new Finance in Sports series, in which we’ll discover some interesting concepts of finance in sports and maybe the sporting economy as a whole. You might find that a lot of the articles in this series will be about Association Football because it is the one sport that resembles a real free market the most out of any sport, but we’ll try to cover as many different sports as possible, to interest all kinds of readership.
 
-### Aspects of Personal Finance:
+Hyperinflation generally coincides with wars and a series of ill-advised and inflammatory fiscal policy decisions, but at the core is a result of a rapid increase in the money supply that is not supported by growth in the economy. This concept of hyperinflation of markets is important to the following article about Financial Fair Play regulation in European Football.
 
-Here are the 5 aspects of a complete financial picture:
-Savings: You need to keep money aside as savings to cover any sudden financial need.
-Investing: Investing is important to grow money so that you can achieve what you aspire.
-Financial protection: Now, financial protection through insurance ensures you and your family can sail through the hard times.
+Three of the four semi-finalists of the 2020-21 version of the UEFA Champions League are clubs owned by oligarchs willing to fund hundreds of millions of euros into their clubs to achieve the coveted UCL prize. Therefore, it is fitting that we first discuss FFP. As we’ve already mentioned, football is the closest thing in sports to a free market, and thus clubs can be owned any number/kind of persons, with different net-worth and ambitions. The billionaire revolution started in the early years of this century, and until then most clubs were owned by fans. Billionaire owners want to make significant investment in the short so as to establish their clubs amongst the best and hope for it to become a sustainable money-making machine in the future.
 
-**Tax planning**: With proper tax planning, i.e. making adequate expenditure/investment, you can bring down your taxable income, eventually saving a lot of money every year.
+The first significant Oligarch to take over a club was probably Roman Abramovic, Chelsea’s billionaire Russian owner. He took over a mid-table Chelsea, in a dire financial situation on the cheap, invested heavily into the team, club infrastructure and the brand and is now reaping the benefits, with Chelsea recently lifting the Champions League title. Few other famous examples of this are the current ownership of PSG and Man City, who’ve also pursued a similar approach and have tasted success to varying degrees. Such clubs did not hold back in their investment plans and did not hesitate to break transfer records to purchase even unrealistic targets at unrealistic prices. This caused the market as a whole to respond by increasing the prices of their players, which caused never before seen levels of inflation. Another very important factor to consider is the increased marketability of the premier league, which brought in unimaginable TV money and also increased transfer demands from clubs from other countries. Another oft forgotten factor is the Florentino Perez’s Galactico strategy. Real Madrid was a very successful team and were (and are) one of the richest clubs in the world. Their Galactico approach to recruit players involved breaking the world record for transfers multiple times, which skewed and inflated the market a lot. The above reasons compelled low budget clubs to spend more money beyond their means, causing them financial difficulties.
 
-**Retirement planning**: Finally, retirement planning is crucial to ensure that you have a big bank balance meant solely for your needs during the twilight years.
+Back in 2010, then UEFA President Michel Platini said something must be done about the "financial doping" that is going on in European football. With so many such factors acting towards inflating the market and a growing disparity between clubs that don’t have rich owners to pump money into their clubs and the ones that do, UEFA introduced the Financial Fair Play (FFP) Regulations in 2011-12, to level the field financially, so that clubs don’t spend more than what they earn, and live within their means, so as to increase the financial health of the market. Under UEFA guidelines, clubs are allowed to spend €5 million (\$5.6 million) more than they earn per assessment period — which lasts three years. However, the limit becomes €30 million (previously €45 million) if these losses can be covered by the owners of the club or a related party. Since 2015, investments in stadiums, training facilities, youth development and women's football are not included in the break-even calculations. If the clubs fail to follow these regulations it may lead to Sanctions, points deductions, fines and disqualification from European competitions.
 
-Now, what funds should one pick as per their financial goals?
-
-**Short-term goals**: The goals that need to be achieved within three years are short-term goals. From saving for a trip to saving for a phone, there are multiple things for which one needs to arrange funds within this timeframe.
-
-**Best investment options**: Liquid Funds, Ultra short-term funds.
-Mid-term goals: If you have set a goal for yourself that needs to be achieved within three to five years, for example - down payment for a house, it can be termed as mid-term goals.
-Best investment options: Hybrid Funds, ELSS, Short Term Debt funds like Banking and PSU Debt Funds
-Long-term goals: Milestone events like retirement, children's education, their marriage, i.e. the goals for which the timeframe is a minimum of 5 years are termed as long-term goals.
-
-**Best investment options**: Multi-Cap Funds, NPS (only for retirement), Large Cap Funds.
-
-### Why start early?
-
-It’s often said that it’s never too late to start saving for retirement. That may be true (technically), but the sooner you start, the better off you’ll likely be during your retirement years. This is because of the power of compounding—what Albert Einstein called the “eighth wonder of the world.”
-
-Compounding involves the reinvestment of earnings, and it is most successful over time. The longer earnings are reinvested, the greater the value of the investment, and the larger the earnings will (hypothetically) be.
-To illustrate the importance of starting early, assume you want to save $1,000,000 by the time you turn 60. If you start saving when you are 20 years old, you would have to contribute $655.30 a month—a total of $314,544 over 40 years—to be a millionaire by the time you hit 60. If you waited until you were 40, your monthly contribution would bump up to $2,432.89—a total of $583,894 over 20 years. Wait until 50 and you’d have to come up with $6,439.88 each month —equal to \$772,786 over the 10 years.
-
-The sooner you start, the easier it is to reach your long-term financial goals. You will need to save less each month and contribute less overall, to reach the same goal in the future.
-
-"Personal finance" is too often an intimidating term that causes people to avoid planning, which can spend within your means and manage lifestyle expectations. Aside from planning for the future, start putting away money today for savings goals, including retirement, leisure, and emergency purposes.
+By now, we’ve all come to the realization that such laws never stop rich people from doing things the way they want, they just find a loophole. Many owners of such clubs, like Man City, have found ways to circumvent these rules by exploiting the ambiguous nature of their sponsorship rules. They overstate their sponsorship payments, so they can pump in more money into the club. According to UEFA, if a club owner has injected money into the club through a sponsorship deal with a company they are related to, UEFA will investigate and, should the situation permit, adapt the calculations of the break-even result for the revenues to the level that is appropriate ('fair value') and in-keeping with market prices. In 2014, 20 clubs were found to be in violation of the FFP rules, two of which were Man City and PSG. They were both fined 60 million euros, with a 40 million euros suspended fine, sanctions, and a few other restrictions in the registration process of the UEFA Champions League.

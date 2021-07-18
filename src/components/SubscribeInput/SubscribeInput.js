@@ -12,12 +12,12 @@ const InputContainer = styled.form`
   justify-content: space-around;
 
   @media (max-width: 496px) {
-    width: 80%;
+    width: 90%;
   }
 `
 
 const Input = styled.input`
-  display: flex;s
+  display: flex;
   flex-basis: 80%;
   height: 75%;
   border: none;
@@ -25,6 +25,7 @@ const Input = styled.input`
   margin-top: 4px;
   padding-left: 15px;
   background-color: white;
+  margin-left: 20px;
   :focus {
     outline: none;
   }
@@ -36,8 +37,8 @@ const Input = styled.input`
       Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   }
 
-  @media(max-width:496px){
-    flex-basis:50%;
+  @media (max-width: 496px) {
+    width: 50%;
   }
 `
 
@@ -53,7 +54,6 @@ const Button = styled.button`
   font-size: 25px;
   border: none;
   border-radius: 7px;
-  margin-left: auto;
   margin-right: 15px;
   margin-top: 2px;
   font-size: 15px;
