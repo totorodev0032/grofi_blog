@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap");
+.parentBlog {
+  display: flex;
+  height: auto;
+  flex-direction: column;
+  background: #f8f9fa;
+}
+
+/* .parentBlog .nav {
+    display: flex;
+    flex-basis: 20%;
+} */
+
+.parentBlog .container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.parentBlog .container .wrapper_blogbox {
+  /* margin-left: 50px; */
+  /* margin-top: 50px; */
+  display: flex;
+  flex-basis: 80%;
+  height: auto;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 10px;
+
+  @media (max-width: 496px) {
+    flex-basis: 100%;
+  }
+}

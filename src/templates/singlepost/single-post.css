@@ -1,0 +1,32 @@
+.single_parent {
+  display: flex;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.single_parent .postArea {
+  margin-top: 5%;
+  display: flex;
+  height: auto;
+  width: 50%;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 35px;
+  margin-bottom: 30px;
+  font-weight: 700;
+  color: black;
+}
+
+@media screen and (max-width: 796px) {
+  .single_parent .postArea {
+    display: flex;
+    height: auto;
+    width: 90%;
+    flex-direction: column;
+  }
+}
