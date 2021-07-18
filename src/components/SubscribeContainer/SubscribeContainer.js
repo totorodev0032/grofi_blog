@@ -7,7 +7,7 @@ const Wrapper = styled.div`
   display: flex;
   flex-direction: column;
   width: 100%;
-  height: 300px;
+  height: auto;
   background-color: #f4f8fc;
   align-items: center;
   justify-content: center;
@@ -27,8 +27,10 @@ const Heading = styled.p`
   font-size: 30px;
   text-align: center;
   letter-spacing: 1;
+  margin-top: 4%;
   @media (max-width: 496px) {
     font-size: 20px;
+    margin-top: 6%;
   }
 `
 
