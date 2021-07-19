@@ -83,7 +83,10 @@ const HeroSection = () => {
               Join us on our mission to help people around the world to be
               financially empowered.
             </Heading>
-            <a style={{ textDecoration: "none", color: "white" }} href="#">
+            <a
+              style={{ textDecoration: "none", color: "white" }}
+              href="https://t.me/Gro_fi"
+            >
               <ButtonJoin>Join Community</ButtonJoin>
             </a>
           </LeftHero>
