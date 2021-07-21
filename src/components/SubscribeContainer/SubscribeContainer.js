@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 import SubscribeInput from "../SubscribeInput/SubscribeInput"
-import GrofiLogo from "../../images/grofi.png"
+import GrofiLogo from "../../images/grofilogo.png"
 
 const Wrapper = styled.div`
   display: flex;
@@ -15,6 +15,7 @@ const Wrapper = styled.div`
 
   img {
     width: 100px;
+    height: 100px;
   }
 `
 

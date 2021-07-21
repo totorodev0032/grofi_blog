@@ -14,9 +14,11 @@ const PostWrapper = styled.div`
   margin-bottom: 20px;
   border-radius: 5px;
   border: 1px solid #cecece;
+  margin-right: 25px;
 
   @media (max-width: 496px) {
     width: 100%;
+    margin-right: 0;
   }
 `
 

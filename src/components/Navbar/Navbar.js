@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 import { Link } from "gatsby"
-import GrofiLogo from "../../images/grofi.png"
+import GrofiLogo from "../../images/grofilogo.png"
 
 const NavWrapper = styled.div`
   display: flex;
